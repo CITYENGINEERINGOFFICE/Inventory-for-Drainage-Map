@@ -1,0 +1,32 @@
+var json_EXISITNGWATERWAY_10 = {
+"type": "FeatureCollection",
+"name": "EXISITNGWATERWAY_10",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Waterway": "Canlanipa-Nueva Basin Existing Waterway" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 125.495338423218612, 9.779919867589935 ], [ 125.494030721505965, 9.779110850937052 ] ] ] } },
+{ "type": "Feature", "properties": { "Waterway": null }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "Waterway": "CANDAVA TO KINABUTAN RIVER L=556m" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "Waterway": "Existing Waterway" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "Waterway": "Existing Waterway L=229m" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 125.497485537372384, 9.782245129842462 ], [ 125.497429216431641, 9.782340782328587 ], [ 125.497457976060957, 9.782410455109792 ], [ 125.497655698512546, 9.782650176601329 ], [ 125.497445992882078, 9.782942447644002 ], [ 125.497297401463882, 9.783112496132363 ], [ 125.497150907102039, 9.783265716831194 ], [ 125.496692850089161, 9.783905168927181 ] ] ] } },
+{ "type": "Feature", "properties": { "Waterway": "Existing Waterway L=328m" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 125.495716108667736, 9.784843273332875 ], [ 125.496297292843664, 9.785341311556998 ], [ 125.496391061218404, 9.785258944883847 ], [ 125.496629526478216, 9.785488479199936 ], [ 125.496679855829527, 9.785582211817172 ], [ 125.496992766588178, 9.785865328443766 ], [ 125.496167125563019, 9.786812542222949 ] ] ] } },
+{ "type": "Feature", "properties": { "Waterway": "Existing Waterway L=268m" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "Waterway": "Existing Waterway" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 125.488132585599345, 9.786315864375434 ], [ 125.488235000564487, 9.78626422440308 ], [ 125.488474646588784, 9.785524320091987 ], [ 125.489079362189273, 9.785462520712072 ], [ 125.489245024013769, 9.785429687589739 ] ] ] } },
+{ "type": "Feature", "properties": { "Waterway": "Existing Waterway" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "Waterway": "Existing Waterway" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "Waterway": "Existing Waterway L=188m" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "Waterway": "Existing Estero L-47m" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "Waterway": "Existing Waterway L=104m" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 125.489325059012089, 9.785419352256424 ], [ 125.490235606935443, 9.785704111276718 ] ] ] } },
+{ "type": "Feature", "properties": { "Waterway": "Existing Waterway L=220m" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "Waterway": "Existing Waterway L=53m" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 125.490369173974273, 9.789999768281225 ], [ 125.489967586049104, 9.790267919389594 ] ] ] } },
+{ "type": "Feature", "properties": { "Waterway": "Existing Waterway L=74m" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 125.490441193075995, 9.789950544480037 ], [ 125.490621351681455, 9.7898831201287 ], [ 125.491110597239327, 9.789880431221087 ] ] ] } },
+{ "type": "Feature", "properties": { "Waterway": "Existing Waterway L=62m" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 125.491209736487022, 9.789854609304042 ], [ 125.491466911020325, 9.789809301203928 ], [ 125.491602388108717, 9.789951813308049 ], [ 125.491710442342324, 9.789937830991105 ] ] ] } },
+{ "type": "Feature", "properties": { "Waterway": "Existing Waterway L=38m" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 125.491818530683958, 9.789934873193221 ], [ 125.492168410838261, 9.789887817314142 ] ] ] } },
+{ "type": "Feature", "properties": { "Waterway": "Existing Waterway L=43m" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 125.489666382314923, 9.78551912045765 ], [ 125.489890130980513, 9.785192682624977 ] ] ] } },
+{ "type": "Feature", "properties": { "Waterway": "Existing Estero" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "Waterway": "269m" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 125.490364360147538, 9.783676889601999 ], [ 125.490931422660978, 9.784143823936805 ], [ 125.490934479601748, 9.784682303846896 ], [ 125.4905615328274, 9.785243376391197 ], [ 125.490326530505428, 9.785684231888325 ] ] ] } },
+{ "type": "Feature", "properties": { "Waterway": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 125.495918507332107, 9.790488866906271 ], [ 125.496394412313307, 9.791202603412533 ] ] ] } },
+{ "type": "Feature", "properties": { "Waterway": "Exisitng Line Canal L=183m" }, "geometry": { "type": "MultiLineString", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "Waterway": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 125.500417131994055, 9.783983314326347 ], [ 125.501048052991266, 9.784356301394524 ] ] ] } },
+{ "type": "Feature", "properties": { "Waterway": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 125.498950210516838, 9.786191213352318 ], [ 125.498928496218682, 9.786188835759965 ], [ 125.499674020456297, 9.786647710768403 ] ] ] } }
+]
+}
